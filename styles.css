@@ -71,22 +71,3 @@ a:hover {
     margin-left: 0.7em;
     padding-top: 0.5em;  
 }
-@media only screen and (max-width: 500px){
-    .img-con {
-        background: url(/images/mobile-design.jpg);
-        background-size: cover;
-        min-height: 145px;
-        border-radius: 7px;
-        margin:16px;
-    }
-    .main-img {
-        display: none;
-    }
-    .container {
-        width: 13.5rem;
-        height: 21.rem;
-    }
-    .learn, .publish, .lang, .paragraph, .small-img {
-        padding-left: 1rem;
-    }
-}
